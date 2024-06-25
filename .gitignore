@@ -1,0 +1,20 @@
+# Environment files
+venv/
+.venv/
+.myenv/
+
+# Bytecode
+__pycache__/
+
+# IDE or editor files (adjust based on your IDE)
+*.pyc
+.idea/
+.vscode/
+
+# Text editor temporary files
+*.swp
+*.swo
+
+# Bundler files
+*.egg
+*.whl
